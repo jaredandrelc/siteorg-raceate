@@ -1,0 +1,6 @@
+{
+  "name": "Cyberpunk Event Terminal",
+  "description": "An interactive cyberpunk IRL minigame verification terminal for the Race Against the Entity challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
